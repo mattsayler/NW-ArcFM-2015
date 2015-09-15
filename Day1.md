@@ -1,12 +1,12 @@
 # Day 1
 
-## Matt Zimmerman
+## Schneider Update
+### Matt Zimmerman
 
-### Misc
+#### Misc
 * Schneider partnered with Geocortex
-* ArcGIS Certified - can install, configure etc
-
-### Technology Update
+* ArcGIS Portal Certified - can install, configure etc
+#### Technology Update
 * 10.2.1b
   * FM 2.0
     * Support for customizations
@@ -135,4 +135,113 @@
             * Keith checking on this
           * Adds additional account management overhead
 
+---
 
+## ArcFM Essentials: The What the Whys and the Hows
+### Frank Towler
+### Latitude Geographics
+
+#### Why
+* One point of contact, one license agreement
+* Bundled Support
+* Esxisting ArcFm server users will not need to purchase ArcFM Essentials
+* Facilitates move to HTML5
+* Mutual clients get a "best of breed" solution
+* Enable smore innovation for utility solutions
+#### How Does this impact my company?
+* ArcFM Essentials = Geocortex Essentials + Utility Enhancements
+#### Who are we?
+* Esri Platinum Partner
+* Victoria, BC
+* 100+ staff
+* 1000+ clients worldwide
+* 25% buisiness through resellers
+* Debt free, profitable & owner operated
+#### Technology for Consumers
+* Map viewers for all major platforms
+* Toolset for end users, no coding
+* Mobile
+  * Support disconnected
+* Intuitive, Guided Interactions
+* Have customers that buy it JUST for 
+  * Reporting
+  * Printing
+* Instant Search
+* Dynamic Charting
+* Datalinking
+  * Connect to non-spatial data from Oracle or SQL Server & maintain data where it belongs
+* Security
+#### Technology for Producers
+* Avoid one-offs and pointed solutions by re-using common building blocks for all your apps
+* Workflow Technology
+  * Easily build simple guided Activities
+  * Huge library of pre-built Activities
+  * Drag and drop tool building
+  * 99% of time workflow can be built using existing Activities
+  * Can consume Model Builder tools
+* Rich Developer SDKs
+#### How can I get ArcFM Essentials?
+* Through ELA
+* If you have ArcFM Server, can get free
+#### Group Questions
+* Secure login available? A: Yes
+* Down to field level, like User A can see fields User B can't? A: yes
+
+---
+
+## 
+### Keith Krall
+### Esri
+
+* Esri Videos: E380
+
+#### 10.2.1
+* 700+ fixes
+* Released Jan 2014
+
+#### 10.1 SP1 QIP & 9.3.1 QIP
+* 400+ fixes
+* March 2014
+
+#### Consumerization of IT
+* Peoples expectations
+  * Smart devices
+  * Do the things they're able to do at home at work
+  * BYO Device
+
+#### Core ArcGIS Online Configuration
+* ~3 days
+
+#### Web GIS Includes Online Analytic Services
+
+#### HERE Maps
+* HERE, Formerly Navtech
+* Collect LIDAR with street level imagery
+* Can measure features in webmap
+
+#### solutions.arcgis.com
+* Templates for web apps
+* Try It Now for demo site
+
+#### ArcGIS Pro
+* Desktop not moving to 64bit, Pro is the 64bit direction
+
+---
+
+## Panel Discussion
+
+* Inspector/Redlining: What is going to happen with classic Inspector product?
+  * Matt Z: On 10.2.1, but probably no further development, on 6 year support cycle. Swap program with ArcFM Mobile.
+  * Pacificorp: Replacement really needs to support multi-level and one-to-many relationships
+* Will the session manager user experience be improving? Clunky, 
+  * Not likely. Older technology. 
+* 
+
+## Business Meeting
+* Elections 
+  * President: Kevin Vaughn - Douglas County PUD
+  * Vice President: Wendy Largent - Umatilla PUD
+  * Secretary: TBD
+* Host for 2016
+  * Keeping Tues/Wed (~13th/14th Sept 2016)
+  * 
