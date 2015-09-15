@@ -105,7 +105,34 @@
       * Support working disconnected
         * Support contractors
     * Lower cost of ownership for GWD
+      * One tool
+      * Design wherever
+      * Just works
+      * For engineers (who shouldn't need to be GIS Experts)
+      * Toolset for ArcGIS Pro for GIS people (see below)
     * Reduced backlog
     * Improved reliability
+    * Strategy
+      * Electric and telecom first
+      * Workflow focused releases
+      * Use of ArcGIS Pro for commissioning
+    * Engineering Network Model
+      * A new network backbone for advanced network management tools
+      * _Adds_ to model
+      * Release ~Winter 2016
+      * Network interrogation
+      * Engineering analysis
+        * Leverage Schneider's vast DMS knowledge
+      * Design optimization
+    * Evolving w/Esri
+      * Smart Network design - Esri SDK
+      * Designer HFC - 
+      * ArcFM components - 
+      * Data replication - 
+      * Get familiar with Esri named users, may become Schneider requirement for next gen tech
+        * Group Comments: 
+          * Want ability for windows credentials to pass through, no secondary sign-on
+            * Keith checking on this
+          * Adds additional account management overhead
 
 
