@@ -6,6 +6,7 @@
 #### Misc
 * Schneider partnered with Geocortex
 * ArcGIS Portal Certified - can install, configure etc
+
 #### Technology Update
 * 10.2.1b
   * FM 2.0
@@ -148,8 +149,10 @@
 * Facilitates move to HTML5
 * Mutual clients get a "best of breed" solution
 * Enable smore innovation for utility solutions
+
 #### How Does this impact my company?
 * ArcFM Essentials = Geocortex Essentials + Utility Enhancements
+
 #### Who are we?
 * Esri Platinum Partner
 * Victoria, BC
@@ -157,6 +160,7 @@
 * 1000+ clients worldwide
 * 25% buisiness through resellers
 * Debt free, profitable & owner operated
+
 #### Technology for Consumers
 * Map viewers for all major platforms
 * Toolset for end users, no coding
@@ -171,6 +175,7 @@
 * Datalinking
   * Connect to non-spatial data from Oracle or SQL Server & maintain data where it belongs
 * Security
+
 #### Technology for Producers
 * Avoid one-offs and pointed solutions by re-using common building blocks for all your apps
 * Workflow Technology
@@ -180,9 +185,11 @@
   * 99% of time workflow can be built using existing Activities
   * Can consume Model Builder tools
 * Rich Developer SDKs
+
 #### How can I get ArcFM Essentials?
 * Through ELA
 * If you have ArcFM Server, can get free
+
 #### Group Questions
 * Secure login available? A: Yes
 * Down to field level, like User A can see fields User B can't? A: yes
