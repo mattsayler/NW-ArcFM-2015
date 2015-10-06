@@ -244,4 +244,4 @@
   * Secretary: TBD
 * Host for 2016
   * Keeping Tues/Wed (~13th/14th Sept 2016)
-  * 
+  * TBD: Esri Olympia? Clark? NW Natural?
